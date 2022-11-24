@@ -1,4 +1,4 @@
-# machine-learning
+# Assignment
 In this question, you will use the Wine dataset a popular
 dataset to evaluate classification algorithms. //
 The classification task is to determine, based
