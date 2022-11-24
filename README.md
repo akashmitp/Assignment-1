@@ -7,7 +7,8 @@ preprocessed to convert this into a binary classification problem (scores less t
 the “zero” class, and scores greater than or equal to 7 belong to the “one” class). 
 Each line describes a wine, using 12 columns: the first 11 describe the wine’s characteristics (details),
 and the last column is a ground truth label for the quality of the wine (0/1). You must not
-use the last column as an input feature when you classify the data.
+use the last column as an input feature when you classify the data.//
+
 (a) (5 marks) Decision Tree Implementation: Implement your own version of the
 decision tree using binary univariate split, entropy and information gain.
 
