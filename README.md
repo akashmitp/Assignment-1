@@ -1,16 +1,11 @@
 # machine-learning
-In this question, you will use the Wine dataset1
-
-, a popular
-dataset to evaluate classification algorithms. The classification task is to determine, based
+In this question, you will use the Wine dataset a popular
+dataset to evaluate classification algorithms. //
+The classification task is to determine, based
 on various parameters, whether a wine quality is over 7. The dataset has already been
 preprocessed to convert this into a binary classification problem (scores less than 7 belong to
-the “zero” class, and scores greater than or equal to 7 belong to the “one” class). Each line
-1https://archive.ics.uci.edu/ml/datasets/Wine+Quality
-
-2
-
-describes a wine, using 12 columns: the first 11 describe the wine’s characteristics (details),
+the “zero” class, and scores greater than or equal to 7 belong to the “one” class). 
+Each line describes a wine, using 12 columns: the first 11 describe the wine’s characteristics (details),
 and the last column is a ground truth label for the quality of the wine (0/1). You must not
 use the last column as an input feature when you classify the data.
 (a) (5 marks) Decision Tree Implementation: Implement your own version of the
